@@ -1,4 +1,4 @@
-# Theory of algorithms
+# [Theory of algorithms](https://github.com/violetdoroshko/algorithm_theory)
 Задачи по теории алгоритмов
 
 ## 1. [Search Trees](https://github.com/violetdoroshko/algorithm_theory/tree/master/Search%20trees)
